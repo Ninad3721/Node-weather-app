@@ -1,0 +1,22 @@
+.profilepic
+{
+   width: 300px; 
+}
+
+.navbar 
+{
+    text-decoration:none;
+    color:#333;
+    
+}
+.footer
+{
+    border-top:1px solid;
+    position: relative;
+    top: 300px;
+    color: gray;
+    font-weight: 100;
+}
+
+
+
